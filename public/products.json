@@ -1,0 +1,164 @@
+[
+    {
+        "name": "Apple iPhone 6",
+        "image": "https://i.ibb.co/XYBfzTd/Apple-i-Phone-6.png",
+        "description": "The iPhone 6 is smartphones that were designed and marketed by Apple Inc. They are the eighth generation of the iPhone, succeeding the iPhone 5, iPhone 5C and iPhone 5S, and were announced on September 9, 2014, and released on September 19, 2014.",
+        "price": 400,
+        "quantity": 50,
+        "supplierName": "Hon Hai Precision Industry: Foxconn (HNHPF) Foxconn is one of Apple's oldest and largest supplierNamee company has its headquarters in Tucheng, New Taipei City.",
+        "sold": "Available"
+    },
+    {
+        "name": "Apple MacBook Pro ",
+        "image": "https://i.ibb.co/sJVBmJ2/Apple-Macbook.png",
+        "description": "Apple's new 14 and 16-inch MacBook Pro Models that launched on October 26,2021.By MacRumors Staff on April 15,2022 14 & 16 MacBook Pro.",
+        "price": 1000,
+        "quantity": 50,
+        "supplierName": "Hon Hai Precision Industry: Foxconn (HNHPF) Foxconn is one of Apple's oldest and largest supplierNamee company has its headquarters in Tucheng, New Taipei City.",
+        "sold": "Available"
+    },
+    {
+        "name": "Sony Watch 3 SWR50",
+        "image": "https://i.ibb.co/RCrcK5R/Sony-Watch-3-SWR50.png",
+        "description": "Sony SmartWatch 3 SWR50 Android watch.Announced Feb 2014.Features 1.6 display, 420mAh battery,4 GB storage,512 MB RAM",
+        "price": 327,
+        "quantity": 50,
+        "supplierName": "Sony Mobile Communications",
+        "sold": "Available"
+    },
+    {
+        "name": "Samsung Galaxy J5 Black",
+        "image": "https://i.ibb.co/t4Gbj77/Samsung-Galaxy-J5-Black.png",
+        "description": "26 June 2015 China",
+        "price": 280,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "Samsung Galaxy S8",
+        "image": "https://i.ibb.co/JzY91p2/Samsung-Galaxy-J5-Black.png",
+        "description": "The Galaxy S8 and S8+ were officially unveiled on 29 March 2017, with pre-orders beginning 30 March and official U.S. release on 21 April 2017.",
+        "price": 950,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "Samsung Gear Blue",
+        "image": "https://i.ibb.co/XWnczrb/Samsung-Gear-Blue.png",
+        "description": "Samsung Gear Sport MORE PICTURES. Released 2017, October 67g (w/ strap); 50g (w/o strap), 11.6mm thickness. Tizen OS 5.5 ... Misc, Colors, Black, Blue.",
+        "price": 20,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "Misfit Shine 2",
+        "image": "https://i.ibb.co/0y7MLdh/Misfit-Shine-2.png",
+        "description": "October 21, 2015 Misfit wearables",
+        "price": 269,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "Tesla Generation",
+        "image": "https://i.ibb.co/s10Hw4K/Tesla-Generation.png",
+        "description": "The Model Y was unveiled on March 14, 2019. Deliveries for the Model Y started on March 13, 2020. The Tesla Model Y is being manufactured at Tesla Factory in Fremont, California, as well as in Giga Shanghai in China.",
+        "price": 300,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "Polaroid Cube+",
+        "image": "https://i.ibb.co/HpMxjcN/Polaroid-Cube.png",
+        "description": "Polaroid Cube+ Polaroid(US)2015 ",
+        "price": 168,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "JBL Pulse 3",
+        "image": "https://i.ibb.co/2cXdPb1/JBL-Pulse.png",
+        "description": "Aug 5, 2021 — Release date. January 2017,Model Number. Pulse 3",
+        "price": 400,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "Google Daydream VR",
+        "image": "https://i.ibb.co/RzPhDrh/Google-Daydream-VR.png",
+        "description": "Daydream was announced at the Google I/O developer conference in May 2016, and the first headset, the Daydream View, was released on November 10, 2016.",
+        "price": 400,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "OnePlus 5T",
+        "image": "https://i.ibb.co/TB1zMVM/One-Plus.png",
+        "description": "OnePlus 5T ; Network, Technology, GSM / CDMA / HSPA / LTE ; Launch, Announced, 2017, November 16. Released 2017, November 21 ",
+        "price": 120,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "Xiaomi Mi Mix 2",
+        "image": "https://i.ibb.co/Z635xTb/Xiaomi-Mi-Mix-2.png",
+        "description": "June 13,2019 custom ui MIUI brand Xiaomi",
+        "price": 55,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "Bluetooth Keyboard",
+        "image": "https://i.ibb.co/BTdNTTs/Bluetooth-Keyboard.png",
+        "description": "Bluetooth keyboards became popular in 2011, coincident with the popularity of portable devices. Most bluetooth keyboards have standard qwerty layouts, though some mini Bluetooth keyboards may have a different layout.",
+        "price": 55,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "Sony Watch Series F",
+        "image": "https://i.ibb.co/MVgVbF1/Sony-Watch-Series-F.png",
+        "description": "Release date, 1st generation: April 24, 2015; 7 years ago (2015-04-24) · Lifespan, c. · Discontinued, 1st generation: September 7, 2016; 5 years ago (2016-09-07)",
+        "price": 327,
+        "quantity": 50,
+        "supplierName": "Sony Mobile Communications",
+        "sold": "Available"
+    },
+    {
+        "name": "Nokia 6 Dual Sim Tempered Blue",
+        "image": "https://i.ibb.co/wzvM7P6/Nokia-6-Dual-Sim-Tempered-Blue.png",
+        "description": "Released 2017, January 19 · 169g, 7.9mm thickness · Android 7.1.1, up to Android 9.0 · 32GB/64GB storage",
+        "price": 280,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    },
+    {
+        "name": "Asus Zenbook ux360ca",
+        "image": "https://i.ibb.co/xC3gFDc/Asus-Zenbook-ux-360ca.png",
+        "description": "13.3-Inch Asus ZenBook Flip (UX360CA) Released Date June 15",
+        "price": 900,
+        "quantity": 50,
+        "supplierName": "ASUS Exclusive Store",
+        "sold": "Available"
+    },
+    {
+        "name": "Meizu M6 Note Blue",
+        "image": "https://i.ibb.co/ngdh0DC/Meizu-M6-Note-Blue.png",
+        "description": "Launched on November 20, 2017 (Official) in India, the mobile is available with striking features and adequate specifications at an introductory price of Rs 37,600.",
+        "price": 350,
+        "quantity": 50,
+        "supplierName": "Made in China",
+        "sold": "Available"
+    }
+]

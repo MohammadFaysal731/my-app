@@ -1,0 +1,98 @@
+[
+    {
+        "name": "Brake Shoe Pads",
+        "image": "https://i.ibb.co/hHTGrz8/brake-shoe-pads.png",
+        "description": "Brake pads are part of a disc brake system. In such systems, brake pads are squeezed together by a caliper against a rotor disc — hence the name 'disc brake.' The pads squeezing against the rotor generate the friction needed to stop the car. Brake shoes are part of a drum brake system.",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    },
+    {
+        "name": "Caliper Brake Auto Car",
+        "image": "https://i.ibb.co/3cwnWf8/caliper-brake-auto-car.png",
+        "description": "The brake caliper houses your car's brake pads and pistons. Its job is to slow the car's wheels by creating friction with the brake rotors. The brake caliper fits like a clamp on a wheel's rotor to stop the wheel from turning when you step on the brakes.",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    },
+    {
+        "name": "Basket Clutch Plate Disk",
+        "image": "https://i.ibb.co/qMnDgBM/clutch-plate-disk-and-basket.png",
+        "description": "In manual transmission motorcycles, the clutch is the component in the engine that engages and disengages power from the engine to the transmission in order to change gears. In other words, it enables the rider to turn on or off power to the rear wheel to change gears.",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    },
+    {
+        "name": "Calipers Brake Auto Car",
+        "image": "https://i.ibb.co/LQVM4NJ/calipers-brake-auto-car.png",
+        "description": "The brake caliper houses your car's brake pads and pistons. Its job is to slow the car's wheels by creating friction with the brake rotors. The brake caliper fits like a clamp on a wheel's rotor to stop the wheel from turning when you step on the brakes.",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    },
+    {
+        "name": "Brake Shoe Kit",
+        "image": "https://i.ibb.co/Wt35TY5/brake-shoe-kit.png",
+        "description": "Brake shoes are part of a drum brake system. Brake shoes are crescent-shaped components with a rough friction material on one side. They sit inside of a brake drum. When the brake pedal is pressed, the brake shoes are forced outward, pushing against the inside of the brake drum and slowing down the wheel.",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    },
+    {
+        "name": "Auto spare dustcoat",
+        "image": "https://i.ibb.co/9HRP4kP/auto-spare-dustcoat.png",
+        "description": "A car coat is an outer garment originally made to be worn by automobile drivers and passengers",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    },
+    {
+        "name": "Brake Pads On White Background",
+        "image": "https://i.ibb.co/pzCBYdm/Brake-pads-on-white-background.png",
+        "description": "Brake Pad Pictures, Images and Stock Photos ... Brake pad for a passenger car in the hand of a mechanic.",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    },
+    {
+        "name": "Spark Plug On Black Background",
+        "image": "https://i.ibb.co/4MN0FZs/spark-plug-on-black-background.png",
+        "description": "Replace original products, original quality, aftermarket products, oe market products. Direct from Manufacturers. high quality products from Verified Wholesale Suppliers.",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    },
+    {
+        "name": "Repair Of Internal Combustion Engine",
+        "image": "https://i.ibb.co/y4h2Ft0/repair-of-internal-combustion-engine.png",
+        "description": "An internal combustion engine (ICE or IC engine) is a heat engine in which the combustion of a fuel occurs with an oxidizer (usually air) in a combustion chamber that is an integral part of the working fluid flow circuit.",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    },
+    {
+        "name": "Pulley Timing Belt",
+        "image": "https://i.ibb.co/kXfBtQW/pulley-Timing-Belt.png",
+        "description": "PU Open Endless timing belt are made of high-strength polymers and reinforced materials, Sold worldwide & Reliable quality. China OEM /ODM Manufacturer.",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    },
+    {
+        "name": "Clutch Release Bearing",
+        "image": "https://i.ibb.co/yRw0gk4/clutch-release-bearing.png",
+        "description": "Clutch release bearings are used in the part that transfers or shuts off the driving force. When the driving force is shut off, the clutch release bearing is affected by a strong force from the high-speed rotating diaphragm spring, and starts to rotate suddenly.",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    },
+    {
+        "name": "Brake Caliper.png",
+        "image": "https://i.ibb.co/0sK2679/brake-caliper.png",
+        "description": "A timing belt pulley is a specialized pulley system with teeth or pockets along the outside of the pulley body's diameter.",
+        "minimumQuantity": 100,
+        "availableQuantity": 10000,
+        "price": 200
+    }
+]
