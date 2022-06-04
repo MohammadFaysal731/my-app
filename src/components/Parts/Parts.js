@@ -14,7 +14,7 @@ const Parts = () => {
             <h1 className='text-center text-success m-3'>OUR PARTS</h1>
             <div className="row row-cols-1 row-cols-md-2 g-4">
                 {
-                    parts.map(part => <Part
+                    parts?.map(part => <Part
                         part={part}
                         key={part._id}
                     ></Part>)
